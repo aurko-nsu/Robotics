@@ -1,0 +1,25 @@
+1. First Download and Install 
+	 i. "Python"    https://www.python.org/downloads/
+	ii. "Anaconda"  https://www.anaconda.com/products/individual#windows
+
+2. Unzip "Face-Mask-Detection.zip" file.
+
+3. Open "Anaconda Prompt (anaconda3)" terminal.
+
+4. Change the directory to "Face-Mask-Detection" folder. 
+	Some directory changing tutorials-
+		1. https://youtu.be/BfXh11ryBJg
+		2. https://youtu.be/1rUFqkRQkok
+
+5. Install the requirements by entering the command line bellow- 
+	pip install -r requirements.txt
+
+This installation may take a few hours.
+
+6. After completing the installation start mask detection by entering the command line-
+	python3 detect_mask_video.py 
+
+After a few moment mask detection window will open automatically. 
+
+7. You can terminate the detection process by pressing the "q" key on the keyboard.
+
