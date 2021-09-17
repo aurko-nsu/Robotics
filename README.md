@@ -11,7 +11,18 @@ This repository contains a few codes that I have written and used in various rob
     
    
     
- 2. <a href="https://github.com/aurko-nsu/Robotics/tree/master/IoT%20and%20Computer%20Vision%20based%20Electronic%20Voting%20System">IoT and Computer Vision based Electronic Voting System</a><br>
+ 2. <a href="https://github.com/aurko-nsu/Robotics/tree/master/IoT%20and%20Computer%20Vision%20based%20Electronic%20Voting%20System">IoT and Computer Vision based Electronic           Voting System</a><br>
     This is my undegrad thesis project which is available <a href="https://link.springer.com/chapter/10.1007/978-981-15-4409-5_56">here</a>.
-    <br><strong>Working procedure of this code:</strong> Identification and verification of voters are assured by microchip embedded national identity (NID) card and biometric fingerprint 
+    <br><strong>Working procedure of this code:</strong> Identification and verification of voters are assured by microchip embedded national identity (NID) card and biometric         fingerprint 
     technology, which is unique for every single voter. Also, with the help of live image processing technology, this system becomes more secure and effective. while voting if         multiple faces detected by the camera module of the voting machine, automatically the vote will not be counted. Viola–Jones algorithm for face detection and local binary           pattern histogram (LBPH) algorithm for face recognition has begun the image preparing innovation increasingly exact and faster. Four connected machines work together to           accumulate each successful vote in this system.
+    
+    
+ 3. <a href="https://github.com/aurko-nsu/Robotics/tree/master/Line_Following_Robot_with_PID_QTR">Line_Following_Robot_with_PID_QTR</a><br>
+    During my undegrad second year, I wrote this while participating in a national line follower robot championship. PID algorithm has been used with QTR sensor.
+
+ 4. <a href="https://github.com/aurko-nsu/Robotics/tree/master/Mars%20Rover">Mars Rover</a><br>
+    a. <a href="https://github.com/aurko-nsu/Robotics/tree/master/Mars%20Rover/MES_motor_arm_grip_pump">MES_motor_arm_grip_pump</a><br>
+        MES stands for Mars Ex Society.
+        <br>
+    b. <a href=""></a><br>
+    
