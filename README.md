@@ -22,7 +22,7 @@ This repository contains a few codes that I have written and used in various rob
 
  4. <a href="https://github.com/aurko-nsu/Robotics/tree/master/Mars%20Rover">Mars Rover</a><br>
     a. <a href="https://github.com/aurko-nsu/Robotics/tree/master/Mars%20Rover/MES_motor_arm_grip_pump">MES_motor_arm_grip_pump</a><br>
-        MES stands for Mars Ex Society.
+        <i>MES stands for Mars Ex Society.</i> This code is to control the motors, robotic-arm, arm-grip, and suction-pump of a Mars Rover, controlled by Radio Controller. This            version was written for MES just before the Indian Rover Challenge(IRC) 2019.
         <br>
     b. <a href=""></a><br>
     
