@@ -8,6 +8,7 @@ This repository contains a few codes that I have written and used in various rob
     Followed by the verification an automated camera will turn on and detect and recognize the subject's face is covered with mask or not. 
     Positive results will open the gate and remain close if not. 
     All of these data will be stored in a cloud database to track the person's status in a regular basis.
+    Hardware Video: https://youtu.be/v09ZMarf0gE
     
    
     
